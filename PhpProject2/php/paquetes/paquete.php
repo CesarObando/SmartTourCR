@@ -1,0 +1,6 @@
+<?php
+
+/* 
+Clase de paquete
+ */
+
