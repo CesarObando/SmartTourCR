@@ -5,11 +5,7 @@ License: Creative Commons Attribution 3.0 Unported
 License URL: http://creativecommons.org/licenses/by/3.0/
 -->
 <!DOCTYPE html>
-<html>
-    <head></head>
-    <body></body>
-    <footer>
-<div class="footer">
+        <div class="footer">
             <div class="container">
                 <div class="footer-grids">
                     <div class="col-md-3 footer-nav wow fadeInLeft animated" data-wow-delay=".5s">
@@ -49,5 +45,3 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                 </div>
             </div>
         </div>
-    </footer>
-</html>

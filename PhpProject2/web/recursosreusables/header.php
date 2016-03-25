@@ -5,9 +5,6 @@ License: Creative Commons Attribution 3.0 Unported
 License URL: http://creativecommons.org/licenses/by/3.0/
 -->
 <!DOCTYPE html>
-<html>
-    <head></head>
-    <body>
 <div class="header">
 		<div class="top-header">
 			<div class="container">
@@ -68,6 +65,3 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 			</div>
 		</div>
 	</div>
-        
-    </body>
-</html>

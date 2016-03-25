@@ -5,8 +5,6 @@ License: Creative Commons Attribution 3.0 Unported
 License URL: http://creativecommons.org/licenses/by/3.0/
 -->
 <!DOCTYPE html>
-<html>
-<head>
 <title>SmartTourCR</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
@@ -44,5 +42,3 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 		 new WOW().init();
 	</script>
 <!--//end-animate-->
-</head>
-</html>
