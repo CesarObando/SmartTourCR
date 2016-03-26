@@ -3,16 +3,14 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-<<<<<<< HEAD
-            <file>file:/C:/xampp/htdocs/SmartTour/PhpProject2/php/paquetes/paquete.php</file>
+            <file>file:/C:/xampp/htdocs/SmartTour/PhpProject2/php/conexion/ConexionBD.php</file>
+            <file>file:/C:/xampp/htdocs/SmartTour/PhpProject2/php/dominio/paquetes/Paquete.php</file>
+            <file>file:/C:/xampp/htdocs/SmartTour/PhpProject2/web/login.html</file>
+            <file>file:/C:/xampp/htdocs/SmartTour/PhpProject2/web/insertarPaquete.html</file>
+            <file>file:/C:/xampp/htdocs/SmartTour/PhpProject2/web/css/bootstrap.css</file>
             <file>file:/C:/xampp/htdocs/SmartTour/PhpProject2/web/index.html</file>
-            <file>file:/C:/xampp/htdocs/SmartTour/PhpProject2/php/conexionBD.php</file>
+            <file>file:/C:/xampp/htdocs/SmartTour/PhpProject2/web/login.php</file>
             <file>file:/C:/xampp/htdocs/SmartTour/PhpProject2/web/index.php</file>
-=======
-            <file>file:/C:/xampp/htdocs/RepositorioExpertos/PhpProject2/web/acercade.php</file>
-            <file>file:/C:/xampp/htdocs/RepositorioExpertos/PhpProject2/web/recursosreusables/head.php</file>
-            <file>file:/C:/xampp/htdocs/RepositorioExpertos/PhpProject2/web/recursosreusables/footer.php</file>
->>>>>>> 94491b9f615bd2ce22804cc7b31ea34ace88bdf3
         </group>
     </open-files>
 </project-private>

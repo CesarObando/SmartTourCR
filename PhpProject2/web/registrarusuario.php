@@ -23,7 +23,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
             <div class="container">
                 <div class="login-body">
                     <div class="login-heading">
-                        <h1>Registrar un usuario</h1>
+                        <h1>Registrarse</h1>
                     </div>
                     <div class="login-info">
                         <form>
