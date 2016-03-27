@@ -17,9 +17,31 @@ License URL: http://creativecommons.org/licenses/by/3.0/
         include './recursosreusables/header.php';
         ?>
         <!-- //header -->
+<<<<<<< HEAD
+
+        <!-- login -->
+        <div class="login">
+            <div class="container">
+                <div class="login-body">
+                    <div class="login-heading">
+                        <h1>Registrarse</h1>
+                    </div>
+                    <div class="login-info">
+                        <form>
+                            <input type="text" name="correo" placeholder="Correo" required="true">
+                            <input type="text" name="nombre" placeholder="Nombre" required="true">
+                            <input type="text" name="apellidos" placeholder="Apellidos" required="true">
+                            <input type="text" name="telefono" placeholder="Telefono" required="true">
+                            <input type="text" name="provincia" placeholder="Provincia" required="true">
+                            <input type="password" name="password" class="lock" placeholder="Password">
+                            <input type="password" name="password" class="lock" placeholder="Confirm Password">
+                            
+                            <label>Intereses </label>
+=======
         <section >
                     <!-- login -->
                         <div class="container">
+>>>>>>> e871694e5b1a73147c37c71498d2d5ecb74266c8
                             <br>
                             <br>
                             <h1>Registrar un usuario</h1>
