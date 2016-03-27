@@ -15,7 +15,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 					<div class="top-header-right wow fadeInRight animated" data-wow-delay=".5s">
 						<div class="top-header-right-info">
 							<ul>
-								<li><a href="login.html">Login</a></li>
+								<li><a href="login.html">Iniciar Sesión</a></li>
 								<li><a href="signup.html">Registrate</a></li>
 							</ul>
 						</div>
@@ -46,17 +46,10 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 						<!-- Collect the nav links, forms, and other content for toggling -->
 						<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 							<ul class="nav navbar-nav">
-								<li><a href="index.html">Home</a></li>
-								<li><a href="codes.html">Buscar sugerencias</a></li>
-								<li><a href="#" class="dropdown-toggle hvr-bounce-to-bottom" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Galeria<span class="caret"></span></a>
-									<ul class="dropdown-menu">
-										<li><a class="hvr-bounce-to-bottom" href="gallery1.html">Galeria 2014</a></li>
-										<li><a class="hvr-bounce-to-bottom" href="gallery2.html">Gallery 2015</a></li>         
-									</ul>
-								</li>
-                                                                <li><a href="acercade.php">Acerca de</a></li>
-								<li><a href="blog.html">Blog</a></li>
-								<li><a href="contact.html">Contacto</a></li>
+								<li><a href="index.html">Inicio</a></li>
+								<li><a href="codes.html">Buscar sugerencias</a></li>								
+                                                                <li><a href="acercade.php">Lugares más visitados</a></li>
+								<li><a href="blog.html">Acerca de</a></li>								
 							</ul>	
 							<div class="clearfix"> </div>
 						</div>	
