@@ -46,6 +46,9 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                                 <label for="hoteles"> Hoteles</label>
                                 <input type="checkbox" name="intereses" id="climafrio" value="climafrio">
                                 <label for="climafrio"> Clima Frio</label>
+                                <br>
+                                <input type="submit" name="editar" value="Editar">
+                                <input type="submit" name="eliminar" value="Borrar Cuenta">
                         </form>
                     </div>
                 </div>
