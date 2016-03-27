@@ -62,6 +62,8 @@ html, body{
 	text-decoration:none;
 	color:#2DCB74;
 }
+
+
 .social-icons{
 	float:left;
 }
@@ -2271,7 +2273,7 @@ button.btn1.btn-1.btn-1b:hover {
 		right: 41%;
 	}
 	.banner {
-		background: url(../images/2.jpg) no-repeat -206px 0px;
+		background: url(../images/volcanIrazu.jpg) no-repeat -206px 0px;
 		background-size: cover;
 		padding: 2em 0 3em;
 	}

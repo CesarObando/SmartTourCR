@@ -49,7 +49,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                     </div>
                     <div class="team-grids">
                         <div class="col-md-4 team-grid wow fadeInLeft animated" data-wow-delay=".5s">
-                            <img src="images/t1.jpg" alt="" />
+                            <img src="images/t1.jpg" />
                             <h4>Cesar Obando</h4>
                             <div class="social-icons team-icons">
                                 <ul>
