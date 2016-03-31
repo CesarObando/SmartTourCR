@@ -49,7 +49,6 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                     </div>
                     <div class="team-grids">
                         <div class="col-md-4 team-grid wow fadeInLeft animated" data-wow-delay=".5s">
-                            <img src="images/t1.jpg" />
                             <h4>Cesar Obando</h4>
                             <div class="social-icons team-icons">
                                 <ul>
@@ -60,7 +59,6 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                             </div>
                         </div>
                         <div class="col-md-4 team-grid wow fadeInUp animated" data-wow-delay=".5s">
-                            <img src="images/t2.jpg" alt="" />
                             <h4>Jonathan Bonilla</h4>
                             <div class="social-icons team-icons">
                                 <ul>
@@ -71,7 +69,6 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                             </div>
                         </div>
                         <div class="col-md-4 team-grid wow fadeInRight animated" data-wow-delay=".5s">
-                            <img src="images/t3.jpg" alt="" />
                             <h4>Allan Moya</h4>
                             <div class="social-icons team-icons">
                                 <ul>
