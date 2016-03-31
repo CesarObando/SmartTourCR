@@ -26,23 +26,23 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                     <br>
                     <br>
                     <h1>Buscar Paquete</h1>
-                    <form>                       
+                    <form action="../php/data/buscarPaqueteData.php" method="post">                       
                         <label for="lugar">Lugar:</label>
-                        <input type="text" class="form-control" name="lugar" id="lugar" required="">                    
+                        <input type="text" class="form-control" name="lugar" id="lugar">                    
                         <label for="clima">Clima:</label>
                         <select class="form-control" name="clima" ></select>
                         <label for="tipoCamino">Tipo de camino:</label>
                         <select class="form-control" name="tipoCamino"></select>
                         <br>
-                        <label for="precio">Precio entre:</label>
-                        <input type="number" class="form-inline" name="precioBase" required="">
-                        <label for="precio">Y:</label>
-                        <input type="number" class="form-inline" name="precioLimite" required="">
+                        <label for="precioBase">Precio entre:</label>
+                        <input type="number" class="form-inline" name="precioBase">
+                        <label for="precioLimite">Y:</label>
+                        <input type="number" class="form-inline" name="precioLimite">
                         <br>
-                        <label for="tiempo">Tiempo entre:</label>
-                        <input type="time" class="form-inline" name="tiempoBase" required="">
-                        <label for="tiempo">Y:</label>
-                        <input type="time" class="form-inline" name="tiempoLimite" required="">
+                        <label for="tiempoBase">Tiempo entre:</label>
+                        <input type="time" class="form-inline" name="tiempoBase">
+                        <label for="tiempoLimite">Y:</label>
+                        <input type="time" class="form-inline" name="tiempoLimite">
                         <br>
                         <label>Intereses </label>
                         <br>
@@ -70,6 +70,6 @@ License URL: http://creativecommons.org/licenses/by/3.0/
         </section>
         <!--Fin Buscar Paquete-->
 
-    </body>
+        </body>
 
-</html>
+        </html>
