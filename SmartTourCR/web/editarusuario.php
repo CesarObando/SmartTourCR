@@ -26,15 +26,22 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                             <h1>Editar información</h1>
                             <br>
                             <form>
-                                <input type="email" class="form-control" name="correo" placeholder="Correo" disabled="true">
-                                <input type="text" class="form-control" name="nombre" placeholder="Nombre" required="true">
-                                <input type="text" class="form-control" name="apellidos" placeholder="Apellidos" required="true">
-                                <input type="tel" class="form-control" name="telefono" placeholder="Telefono" required="true">
-                                <input type="text" class="form-control" name="provincia" placeholder="Provincia" required="true">
-                                <input type="password" class="form-control" name="password" class="lock" placeholder="Password">
-                                <input type="password" class="form-control" name="password" class="lock" placeholder="Confirm Password">
+                                <label for="correo">Correo: </label>
+                                <input type="email" class="form-control" name="correo" disabled="true">
+                                <label for="nombre">Nombre: </label>
+                                <input type="text" class="form-control" name="nombre" required="true">
+                                <label for="apellidos">Apellidos: </label>
+                                <input type="text" class="form-control" name="apellidos" required="true">
+                                <label for="telefono">Telefono: </label>
+                                <input type="tel" class="form-control" name="telefono" required="true">
+                                <label for="provincia">Provincia: </label>
+                                <input type="text" class="form-control" name="provincia" required="true">
+                                <label for="password">Contraseña: </label>
+                                <input type="password" class="form-control" name="password" class="lock">
+                                <label for="password">Confirmar contraseña: </label>
+                                <input type="password" class="form-control" name="password" class="lock" >
                                 <br>
-                                <label>Intereses </label>
+                                <label>Intereses: </label>
                                 <br>
                                 <input type="checkbox" name="intereses" id="deportes" value="deportes">
                                 <label for="deportes">Deportes </label>
@@ -50,7 +57,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                                 <input type="checkbox" name="intereses" id="climafrio" value="climafrio">
                                 <label for="climafrio"> Clima Frio</label>
                                 <br>
-                                <input type="submit" name="editar" value="Editar">
+                                <input type="submit" name="editar" value="Editar" class="btn-success btn-lg">
                             </form>
                         </div>
                     <!-- //login -->

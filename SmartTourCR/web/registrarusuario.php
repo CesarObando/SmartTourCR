@@ -17,45 +17,30 @@ License URL: http://creativecommons.org/licenses/by/3.0/
         include './recursosreusables/header.php';
         ?>
         <!-- //header -->
-<<<<<<< HEAD
-
         <!-- login -->
-        <div class="login">
-            <div class="container">
-                <div class="login-body">
-                    <div class="login-heading">
-                        <h1>Registrarse</h1>
-                    </div>
-                    <div class="login-info">
-                        <form>
-                            <input type="text" name="correo" placeholder="Correo" required="true">
-                            <input type="text" name="nombre" placeholder="Nombre" required="true">
-                            <input type="text" name="apellidos" placeholder="Apellidos" required="true">
-                            <input type="text" name="telefono" placeholder="Telefono" required="true">
-                            <input type="text" name="provincia" placeholder="Provincia" required="true">
-                            <input type="password" name="password" class="lock" placeholder="Password">
-                            <input type="password" name="password" class="lock" placeholder="Confirm Password">
-                            
-                            <label>Intereses </label>
-=======
-        <section >
-                    <!-- login -->
-                        <div class="container">
->>>>>>> e871694e5b1a73147c37c71498d2d5ecb74266c8
+        <section>      
+                <div class="container">
                             <br>
                             <br>
                             <h1>Registrar un usuario</h1>
                             <br>
                             <form>
-                                <input type="email" class="form-control" name="correo" placeholder="Correo" required="true">
-                                <input type="text" class="form-control" name="nombre" placeholder="Nombre" required="true">
-                                <input type="text" class="form-control" name="apellidos" placeholder="Apellidos" required="true">
-                                <input type="tel" class="form-control" name="telefono" placeholder="Telefono" required="true">
-                                <input type="text" class="form-control" name="provincia" placeholder="Provincia" required="true">
-                                <input type="password" class="form-control" name="password" class="lock" placeholder="Password">
-                                <input type="password" class="form-control" name="password" class="lock" placeholder="Confirm Password">
+                                <label for="correo">Correo: </label>
+                                <input type="email" class="form-control" name="correo" required="true">
+                                <label for="nombre">Nombre: </label>
+                                <input type="text" class="form-control" name="nombre" required="true">
+                                <label for="apellidos">Apellidos: </label>
+                                <input type="text" class="form-control" name="apellidos" required="true">
+                                <label for="telefono">Telefono: </label>
+                                <input type="tel" class="form-control" name="telefono" required="true">
+                                <label for="provincia">Provincia: </label>
+                                <input type="text" class="form-control" name="provincia" required="true">
+                                <label for="password">Contraseña: </label>
+                                <input type="password" class="form-control" name="password" class="lock">
+                                <label for="password">Confirmar contraseña: </label>
+                                <input type="password" class="form-control" name="password" class="lock" >
                                 <br>
-                                <label>Intereses </label>
+                                <label>Intereses: </label>
                                 <br>
                                 <input type="checkbox" name="intereses" id="deportes" value="deportes">
                                 <label for="deportes">Deportes </label>
@@ -71,14 +56,13 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                                 <input type="checkbox" name="intereses" id="climafrio" value="climafrio">
                                 <label for="climafrio"> Clima Frio</label>
                                 <br>
-                                <input type="submit" name="Registro" value="Registrar">
+                                <input type="submit" name="registrarUsuario" value="Registrar" class="btn-success btn-lg">
                                 <div class="signup-text">
                                     <a href="login.html">Ya tienes una cuenta? Ingresa aqui.</a>
                                 </div>
                             </form>
-                        </div>
+            </div>
                     <!-- //login -->
-        </section>
         <footer>
         <?php
         include './recursosreusables/footer.php';
