@@ -20,13 +20,13 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 
         <!--Insertar Paquete-->
          <section>      
-            <div class="form-control">
+           
                 <div class="container">
                     <br>
                     <br>
                     <br>
                     <h1>Insertar Paquete</h1>
-                    <form>                       
+                    <form name="formInsertarPaquete" id="formInsertarPaquete" method="post">                       
                         <label for="lugar">Lugar:</label>
                         <input type="text" class="form-control" name="lugar" id="lugar" required="">                    
                         <label for="clima">Clima:</label>
@@ -40,13 +40,13 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                         <label for="descripcion">Descripción:</label>
                         <input type="text" class="form-control" name="descripcion" required="">
                         <hr>
-                        <input type="submit" name="insertarPaquete" value="Registrar" class="btn-success btn-lg">
+                        <input type="submit" name="btnInsertarPaquete" value="Registrar" class="btn-success btn-lg">
 
                     </form>
                     <br>
                     <br>
                 </div>
-            </div>
+            
         </section>
         <!--Fn Insertar Paquete-->
 
