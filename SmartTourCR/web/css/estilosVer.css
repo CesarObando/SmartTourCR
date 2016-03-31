@@ -1,0 +1,82 @@
+@charset "utf-8";
+/* CSS Document */
+
+html, body, h1, h2, h3, h4, h5, h6, p, ol, ul, li, pre, code, address, variable, form, fieldset, blockquote {
+ padding: 0;
+ margin: 0;
+ font-size: 100%;
+ font-weight: normal;
+}
+table { border-collapse: collapse; border-spacing: 0; }
+td, th, caption { font-weight: normal; text-align: left; }
+img, fieldset { border: 0; }
+ol { padding-left: 1.4em; list-style: decimal; }
+ul { padding-left: 1.4em; list-style:square; }
+q:before, q:after { content:''; }
+
+/*Fin del reset css*/
+
+body{
+	font-size:65.5%;
+	}
+h1{
+	font:normal 2.4em Verdana, Genova, sans-serif;
+	background:-webkit-linear-gradient(top, #002058, #053EB0);
+	width:45%;
+	border-radius:10px;
+	margin:15px auto;
+	text-align:center;
+	padding:15px;
+	color:#F9F9F9;
+	text-shadow:#E7E1E1 2px 2px 3px;
+	box-shadow:#6E72C4 5px 5px 10px;
+	
+	}	
+
+h2{
+	font: bold 1.7em Verdana, Genova, sans-serif;
+	margin:0;
+	padding:5px 0px 5px 0px;
+	color:#000000;
+	
+	}
+
+section{
+	width:91%;
+	border-top:1px dashed #B0AEAE;
+	margin:15px auto;
+	
+	}
+
+figure{
+	float:left;
+	
+	}
+
+figure img{
+	padding:4px;
+	background:#B5B5B5;
+	border-radius:20px;
+	-webkit-transition:-webkit-transform 0.3s ease-in-out 0.1s;
+	box-shadow:#7F7F7F 5px 5px 10px;
+	}
+	
+figure img:hover{
+	-webkit-transform:scale(1.2);
+	}
+	
+figcaption{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:1.3em;
+	text-align:center;
+	margin-top:5px;
+	}
+footer{
+	clear:both;
+	padding-top:100px;
+	}
+footer p{
+	font: 1.6em Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+	color:#6C6C6C;
+	margin: 10px 8px;
+	}
