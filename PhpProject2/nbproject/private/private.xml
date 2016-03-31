@@ -3,16 +3,7 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-<<<<<<< HEAD
-            <file>file:/C:/xampp/htdocs/SmartTourCR/PhpProject2/web/login.php</file>
-            <file>file:/C:/xampp/htdocs/SmartTourCR/PhpProject2/php/conexion/ConexionBD.php</file>
-=======
-            <file>file:/C:/xampp/htdocs/RepositorioExpertos/PhpProject2/web/acercade.php</file>
-            <file>file:/C:/xampp/htdocs/RepositorioExpertos/PhpProject2/web/editarusuario.php</file>
-            <file>file:/C:/xampp/htdocs/RepositorioExpertos/PhpProject2/web/verperfil.php</file>
-            <file>file:/C:/xampp/htdocs/RepositorioExpertos/PhpProject2/web/registrarusuario.php</file>
-            <file>file:/C:/xampp/htdocs/RepositorioExpertos/PhpProject2/web/recursosreusables/header.php</file>
->>>>>>> 2c38e6d0c818ad60bd5a704dab32f580cba92da9
+            <file>file:/C:/xampp/htdocs/SmartTourCR/PhpProject2/web/inicio.php</file>
         </group>
     </open-files>
 </project-private>
