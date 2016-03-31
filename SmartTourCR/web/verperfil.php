@@ -26,7 +26,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                         <h1>Perfil de Usuario</h1>
                     </div>
                     <div class="login-info">
-                        <form>
+                        <form action="editarusuario.php">
                             <label type="text" name="correo">Correo:  cesar.b.c@hotmail.com</label><br><br>
                             <label type="text" name="nombre">Nombre:  Cesar Obando Solano</label><br><br>
                             <label type="text" name="telefono">Telefono:  87940363</label><br><br>
@@ -47,7 +47,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                                 <input type="checkbox" name="intereses" id="climafrio" value="climafrio">
                                 <label for="climafrio"> Clima Frio</label>
                                 <br>
-                                <input type="submit" name="editar" value="Editar">
+                                <input type="submit" name="editar" value="Editar" >
                                 <input type="submit" name="eliminar" value="Borrar Cuenta">
                         </form>
                     </div>

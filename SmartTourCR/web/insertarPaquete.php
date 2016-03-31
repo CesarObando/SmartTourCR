@@ -26,7 +26,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                     <br>
                     <br>
                     <h1>Insertar Paquete</h1>
-                    <form name="formInsertarPaquete" id="formInsertarPaquete" method="post">                       
+                    <form name="formInsertarPaquete" id="formInsertarPaquete" method="post" action="insertarPaquete.php">                       
                         <label for="lugar">Lugar:</label>
                         <input type="text" class="form-control" name="lugar" id="lugar" required="">                    
                         <label for="clima">Clima:</label>
@@ -53,3 +53,5 @@ License URL: http://creativecommons.org/licenses/by/3.0/
     </body>
     
 </html>
+
+

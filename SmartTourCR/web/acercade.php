@@ -31,7 +31,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
             <div class="about-top">
                 <div class="container">
                     <div class="about-bottom">
-                        <img class="wow fadeInUp animated" data-wow-delay=".5s" src="images/ab.jpg" alt="" />
+                        <img class="wow fadeInUp animated" data-wow-delay=".5s" src="images/cerro_chirripo.jpg" alt="" />
                         <p class="wow fadeInUp animated" data-wow-delay=".5s">  Smart Tour CR es una compañia dedicada a sugerir paquetes turisticos dentro del territorio costarricense
                             basandonos en criterios como los intereses del usuario, tiempo que se tardara realizando el tour,
                             entre otros</p>
@@ -54,7 +54,6 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                                 <ul>
                                     <li><a class="twitter" href="https://twitter.com/CesarObandoS"><i class="fa fa-twitter"></i></a></li>
                                     <li><a class="twitter facebook" href="https://www.facebook.com/cesar.obando.5"><i class="fa fa-facebook"></i></a></li>
-                                    <li><a class="twitter google" href="#"><i class="fa fa-google-plus"></i></a></li>
                                 </ul>
                             </div>
                         </div>
@@ -64,7 +63,6 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                                 <ul>
                                     <li><a class="twitter" href="https://twitter.com/jonabu94"><i class="fa fa-twitter"></i></a></li>
                                     <li><a class="twitter facebook" href="https://www.facebook.com/jonathan.bonillaumana"><i class="fa fa-facebook"></i></a></li>
-                                    <li><a class="twitter google" href="#"><i class="fa fa-google-plus"></i></a></li>
                                 </ul>
                             </div>
                         </div>
@@ -72,9 +70,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                             <h4>Allan Moya</h4>
                             <div class="social-icons team-icons">
                                 <ul>
-                                    <li><a class="twitter" href=""><i class="fa fa-twitter"></i></a></li>
                                     <li><a class="twitter facebook" href="https://www.facebook.com/allan.moyamadrigal"><i class="fa fa-facebook"></i></a></li>
-                                    <li><a class="twitter google" href="#"><i class="fa fa-google-plus"></i></a></li>
                                 </ul>
                             </div>
                         </div>
