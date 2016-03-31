@@ -21,8 +21,8 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                             <div class="top-header-right wow fadeInRight animated" data-wow-delay=".5s">
                                 <div class="top-header-right-info">
                                     <ul>
-                                        <li><a href="login.html">Iniciar sesión</a></li>  
-                                        <li><a href="login.html">Registrarse</a></li>  
+                                        <li><a href="../web/loginusuario.php">Iniciar sesión</a></li>  
+                                        <li><a href="../web/registrarusuario.php">Registrarse</a></li>  
                                     </ul>
                                 </div>
                                 <div class="clearfix"> </div>
@@ -32,7 +32,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                     <div class="bottom-header">
                         <div class="container">
                             <div class="logo wow fadeInDown animated" data-wow-delay=".5s">
-                                <h1><a href="index.html"><img src="images/logo.jpg" alt="" /></a></h1>
+                                <h1><a href="../web/inicio.php"><img src="images/logo.jpg" alt="" /></a></h1>
                             </div>
                             <div class="top-nav wow fadeInRight animated" data-wow-delay=".5s">
                                 <nav class="navbar navbar-default">
@@ -43,10 +43,10 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                                     <!-- Collect the nav links, forms, and other content for toggling -->
                                     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                                         <ul class="nav navbar-nav">
-                                            <li><a href="index.html">Inicio</a></li>
-                                            <li><a href="codes.html">Buscar sugerencias</a></li>								
-                                            <li><a href="acercade.php">Lugares más visitados</a></li>
-                                            <li><a href="blog.html">Acerca de</a></li>
+                                            <li><a href="../web/inicio.php">Inicio</a></li>
+                                            <li><a href="../web/buscarPaquete.php">Buscar sugerencias</a></li>								
+                                            <li><a href="../web/verperfilusuario.php">Perfil</a></li>
+                                            <li><a href="../web/acercade.php">Acerca de</a></li>
                                         </ul>                                
                                 </nav>		
                             </div>
